@@ -13,4 +13,5 @@ hi = soup.find_all("p")[37:88]
 
 for cases in hi:
     print(cases.text)
+    
 
